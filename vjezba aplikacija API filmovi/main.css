@@ -1,0 +1,17 @@
+.container{
+	text-align: center;
+
+	
+}
+body{
+	background-color: yellow;
+	text-align: center;
+}
+#target{
+
+	margin: 15px;
+
+}
+h1{
+	color:red;
+}
